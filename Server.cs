@@ -1,7 +1,8 @@
 public class Server
 {
-    public const string IP = "211.101.237.202";
-    public const int port = 822;
+    //属于机密，暂不公开
+    public const string IP = "";
+    public const int port = 0;
     public static int LoginUIState = 0;
-    public const int GameDataPort = 823;
+    public const int GameDataPort = 0;
 }
